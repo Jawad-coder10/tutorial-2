@@ -1,4 +1,7 @@
 
+## LADING PAGE LINK
+[From figma.com i found this one landing page](https://www.figma.com/community/file/1127302394641561751/50-landing-page-designs)
+
 ## Github
 
 This is git command to run in local
