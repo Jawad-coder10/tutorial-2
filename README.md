@@ -35,7 +35,7 @@ This is git command to run in local
         # c. Merge main to your current branch info: we take changes from local main to your current branch(pull-request)
         git merge main
 
-    # 4. load all remote origin branch in local
+    # 4. (OPTIONAL) load all remote origin branch in local
        get fetch --all
 
        git checkout -b name origin/name
